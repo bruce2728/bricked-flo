@@ -2653,6 +2653,7 @@ CONFIG_FB_SYS_FOPS=y
 # CONFIG_FB_BACKLIGHT is not set
 # CONFIG_FB_MODE_HELPERS is not set
 # CONFIG_FB_TILEBLITTING is not set
+CONFIG_LCD_KCAL_STANDALONE=y
 
 #
 # Frame buffer hardware drivers
